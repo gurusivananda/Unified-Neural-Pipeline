@@ -1,0 +1,7 @@
+clwebrtcvad==4.3.1
+resemblyzer==0.1.1.dev0
+openai-whisper==20230314
+numpy==1.24.3
+scipy==1.10.1
+librosa==0.10.0
+soundfile==0.12.1

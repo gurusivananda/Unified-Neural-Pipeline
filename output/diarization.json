@@ -1,34 +1,26 @@
 [
   {
     "speaker": "Target",
-    "start": 0.5,
-    "end": 3.2,
-    "text": "Hello, this is a demo of the target speaker diarization pipeline.",
+    "start": 2.0,
+    "end": 4.0,
+    "text": "And this is the second speaker. I'm providing additional context for the demonstration.",
     "confidence": null,
-    "similarity": 0.82
-  },
-  {
-    "speaker": "Target",
-    "start": 5.1,
-    "end": 8.7,
-    "text": "This demonstrates how the system identifies and transcribes target speakers.",
-    "confidence": null,
-    "similarity": 0.75
+    "similarity": 0.95
   },
   {
     "speaker": "Other",
-    "start": 9.2,
-    "end": 12.0,
-    "text": "This is a different speaker not matching the target.",
+    "start": 0.0,
+    "end": 2.0,
+    "text": "Hello, this is the first speaker. I'm speaking about the analysis of acoustic signals.",
     "confidence": null,
-    "similarity": 0.32
+    "similarity": 0.15
   },
   {
-    "speaker": "Target",
-    "start": 13.5,
-    "end": 16.8,
-    "text": "The system concatenates all target segments into one audio file.",
+    "speaker": "Other",
+    "start": 6.0,
+    "end": 8.0,
+    "text": "We return to the first speaker to conclude this analysis.",
     "confidence": null,
-    "similarity": 0.79
+    "similarity": 0.12
   }
 ]

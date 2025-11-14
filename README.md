@@ -1,4 +1,4 @@
-# CPU-Only Target Speaker Diarization and ASR Pipeline
+# Target Speaker Diarization and ASR Pipeline
 
 A complete Python pipeline for speaker diarization and automatic speech recognition (ASR) optimized for CPU-only execution. This system identifies and transcribes a target speaker from multi-speaker audio using webrtcvad for voice activity detection, resemblyzer for speaker embeddings, and OpenAI's Whisper for ASR.
 
